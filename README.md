@@ -8,6 +8,6 @@
                                                                                             
 ```
 ### Hi there 👋
-### Here is BugsEngeneer🤖 Aka Yaqioooong~
+### Here is BugsEngineer🤖 Aka Yaqioooong~
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaqioooong&layout=compact&theme=tokyonight)
